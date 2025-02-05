@@ -1,4 +1,3 @@
-
 echo $1
 cd ~/ccminer-linux
 chmod +x *
